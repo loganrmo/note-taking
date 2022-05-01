@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
+
+:root {
+    --monospace: 'Fira Mono', monospace;
+    --bg-color: #f9f9f9;
+    --text-color: #000000;
+    --active-file-bg-color: #E6E8EA;
+    --side-bar-bg-color: #f9f9f9;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #000000;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: left;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h4 {
+    text-align: left;
+    font-weight: bold;
+}
+
+p {
+    text-align: left;
+}
